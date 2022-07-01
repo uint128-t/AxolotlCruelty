@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item":"minecraft:axolotl_bucket"
+  },
+  "result": "cookedaxolotls:cooked_axolotl",
+  "experience": 0.15,
+  "cookingtime": 200
+}
