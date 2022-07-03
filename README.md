@@ -1,4 +1,4 @@
-# Edble axolotls
+# Edble axolotls (fabric)
 This is a fabric mod for adding cooked axolotls and making buckets of axolotl be used as fuel in a furnace.
 
 ### Don't call me a monster for this.
