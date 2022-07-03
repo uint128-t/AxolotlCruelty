@@ -18,11 +18,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.yourmom.cookedaxolotls.CookedAxolotls"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    
   ],
 
   "depends": {
