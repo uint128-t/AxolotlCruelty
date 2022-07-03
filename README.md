@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Edble axolotls
+This is a fabric mod for adding cooked axolotls and making buckets of axolotl be used as fuel in a furnace.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### Don't call me a monster for this.
+This is just a game, no harm to real animals were done. I would never do that. This is for joke purposes.
