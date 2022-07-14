@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "cookedaxolotls",
+  "id": "axolotlcruelty",
   "version": "${version}",
 
   "name": "Cooked axolotls+fuel",
@@ -13,16 +13,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/cookedaxlotls/icon.png",
+  "icon": "assets/axolotlcruelty/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.yourmom.cookedaxolotls.CookedAxolotls"
+      "net.yourmom.axolotlcruelty.AxolotlCruelty"
     ]
   },
   "mixins": [
-    
+    "axolotlcruelty.mixins.json"
   ],
 
   "depends": {
@@ -30,8 +30,5 @@
     "fabric": "*",
     "minecraft": "~1.19",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }

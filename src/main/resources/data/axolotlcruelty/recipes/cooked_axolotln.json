@@ -3,7 +3,7 @@
   "ingredient": {
     "item":"minecraft:axolotl_bucket"
   },
-  "result": "cookedaxolotls:cooked_axolotl",
+  "result": "axolotlcruelty:cooked_axolotl",
   "experience": 0.15,
   "cookingtime": 200
 }

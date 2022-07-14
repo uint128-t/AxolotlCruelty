@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    " 2 ",
+    " 2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:axolotl_bucket"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "axolotlcruelty:axeolotl"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item":"axolotlcruelty:axolotl_milk_bucket"},
+    {"item":"minecraft:sugar"}
+  ],
+  "result": {"item":"axolotlcruelty:axolotl_smoothie"}
+}
