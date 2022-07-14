@@ -8,7 +8,6 @@ import net.fabricmc.fabric.api.event.player.UseEntityCallback;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.registry.CompostingChanceRegistry;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
-import net.minecraft.client.MinecraftClient;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
@@ -23,7 +22,6 @@ import net.yourmom.axolotlcruelty.Items.*;
 
 public class AxolotlCruelty implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger(AxolotlCruelty.class);
-	static public MinecraftClient current = MinecraftClient.getInstance();
 	public static final Item COOKED_AXOLOTL = new Item(
 			new FabricItemSettings().group(ItemGroup.FOOD)
 					.food(new FoodComponent.Builder().hunger(3).saturationModifier(9.6F).snack().meat()
