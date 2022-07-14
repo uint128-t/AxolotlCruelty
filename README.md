@@ -17,7 +17,9 @@ This is just a game, no harm to real animals were done. I would never do that. T
 
 ### Recipes:
 (Shapeless) Axolotl in a Milk Bucket + Sugar: Axolotl smoothie
+
 (Shaped) Pickaxe but the ingots are axolotl buckets: Axe-olotl
+
 (Furnace/Smelter) Axolotl bucket: Cooked axolotl
 
 ### Usage:
