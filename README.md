@@ -22,5 +22,5 @@ This is just a game, no harm to real animals were done. I would never do that. T
 
 (Furnace/Smelter) Axolotl bucket: Cooked axolotl
 
-### Usage:
-Click on an axolotl with a milk bucket/empty bottle for an Axolotl in a Milk Bucket/ Axolotl in a Bottle
+### Details:
+There are some minor bugs that I don't know how to solve. These include details such as the furance not returning a fuel remainder and same with the composter. You're welcome to make a pull request for this.
