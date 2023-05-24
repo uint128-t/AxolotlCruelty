@@ -1,4 +1,4 @@
-**THIS IS A JOKE ALRIGHT. DON'T BE DRAMATIC.**
+**THIS IS A JOKE NO HARM TO ANIMALS WERE DONE**
 # ALL IN ONE FU*KED UP AXOLOTL MOD
 
 ## Features
@@ -11,10 +11,6 @@
 * Axolotl smoothie
 * Axe-olotl 
 
-### Don't call me a monster for this.
-
-This is just a game, no harm to real animals were done. I would never do that. This is for joke purposes.
-
 ### Recipes:
 (Shapeless) Axolotl in a Milk Bucket + Sugar: Axolotl smoothie
 
@@ -23,4 +19,4 @@ This is just a game, no harm to real animals were done. I would never do that. T
 (Furnace/Smelter) Axolotl bucket: Cooked axolotl
 
 ### Details:
-There are some minor bugs that I don't know how to solve. These include details such as the furance not returning a fuel remainder and same with the composter. You're welcome to make a pull request for this.
+There are some minor bugs that I don't know how to solve. These include details such as the furance not returning a fuel remainder and same with the composter. 
